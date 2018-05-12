@@ -1,0 +1,42 @@
+_repo: The-Boy-Scouts-Mountain-Camp_42102
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Brinkerhoff, R. M.
+    alias: Brinkerhoff, Robert Moore
+    gutenberg_agent_id: '6774'
+    url: http://www.gutenberg.org/2009/agents/6774
+covers:
+- cover_type: archival
+  image_path: 42102-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Goldfrap, John Henry
+    aliases:
+    - Lawton, Wilbur
+    - Dexter J. Forrester
+    - West, Marvin
+    - Deering, Fremont B.
+    - Payson, Howard
+    - Lawton, Captain Wilbur
+    birthdate: 1879
+    deathdate: 1917
+    gutenberg_agent_id: '1974'
+    url: http://www.gutenberg.org/2009/agents/1974
+    wikipedia: http://en.wikipedia.org/wiki/John_Henry_Goldfrap
+description: ''
+gutenberg_issued: '2013-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42102'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boy Scouts of America -- Juvenile fiction'
+- !lcsh 'Long Island (N.Y.) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boats and boating -- Juvenile fiction'
+title: The Boy Scouts' Mountain Camp
+url: http://www.gutenberg.org/ebooks/42102
